@@ -1,0 +1,12 @@
+C:\Users\yasmin.feitosa\Documents\Visual Studio 2015\Projects\Manipulador de Arquivos txt e docx\Manipulador de Arquivos txt e docx\bin\Debug\Manipulador de Arquivos txt e docx.exe.config
+C:\Users\yasmin.feitosa\Documents\Visual Studio 2015\Projects\Manipulador de Arquivos txt e docx\Manipulador de Arquivos txt e docx\bin\Debug\Manipulador de Arquivos txt e docx.exe
+C:\Users\yasmin.feitosa\Documents\Visual Studio 2015\Projects\Manipulador de Arquivos txt e docx\Manipulador de Arquivos txt e docx\bin\Debug\Manipulador de Arquivos txt e docx.pdb
+C:\Users\yasmin.feitosa\Documents\Visual Studio 2015\Projects\Manipulador de Arquivos txt e docx\Manipulador de Arquivos txt e docx\bin\Debug\Manipulador de Arquivos txt e docx.xml
+C:\Users\yasmin.feitosa\Documents\Visual Studio 2015\Projects\Manipulador de Arquivos txt e docx\Manipulador de Arquivos txt e docx\obj\Debug\Manipulador de Arquivos txt e docx.vbprojResolveAssemblyReference.cache
+C:\Users\yasmin.feitosa\Documents\Visual Studio 2015\Projects\Manipulador de Arquivos txt e docx\Manipulador de Arquivos txt e docx\obj\Debug\Manipulador_de_Arquivos_txt_e_docx.frmManipulacaoTxt.resources
+C:\Users\yasmin.feitosa\Documents\Visual Studio 2015\Projects\Manipulador de Arquivos txt e docx\Manipulador de Arquivos txt e docx\obj\Debug\Manipulador_de_Arquivos_txt_e_docx.frmMinAnexar.resources
+C:\Users\yasmin.feitosa\Documents\Visual Studio 2015\Projects\Manipulador de Arquivos txt e docx\Manipulador de Arquivos txt e docx\obj\Debug\Manipulador_de_Arquivos_txt_e_docx.Resources.resources
+C:\Users\yasmin.feitosa\Documents\Visual Studio 2015\Projects\Manipulador de Arquivos txt e docx\Manipulador de Arquivos txt e docx\obj\Debug\Manipulador de Arquivos txt e docx.vbproj.GenerateResource.Cache
+C:\Users\yasmin.feitosa\Documents\Visual Studio 2015\Projects\Manipulador de Arquivos txt e docx\Manipulador de Arquivos txt e docx\obj\Debug\Manipulador de Arquivos txt e docx.exe
+C:\Users\yasmin.feitosa\Documents\Visual Studio 2015\Projects\Manipulador de Arquivos txt e docx\Manipulador de Arquivos txt e docx\obj\Debug\Manipulador de Arquivos txt e docx.xml
+C:\Users\yasmin.feitosa\Documents\Visual Studio 2015\Projects\Manipulador de Arquivos txt e docx\Manipulador de Arquivos txt e docx\obj\Debug\Manipulador de Arquivos txt e docx.pdb

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Manipulador de Arquivos txt e docx
+</name>
+</assembly>
+<members>
+<member name="T:Manipulador_de_Arquivos_txt_e_docx.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Manipulador_de_Arquivos_txt_e_docx.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Manipulador_de_Arquivos_txt_e_docx.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Manipulador_de_Arquivos_txt_e_docx.My.Resources.Resources.atom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Manipulador_de_Arquivos_txt_e_docx.My.Resources.Resources.atom1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Manipulador_de_Arquivos_txt_e_docx.My.Resources.Resources.corvb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Manipulador_de_Arquivos_txt_e_docx.My.Resources.Resources.Nova_Imagem_de_Bitmap">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
